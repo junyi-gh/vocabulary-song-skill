@@ -1,0 +1,61 @@
+{
+  "title": "Keep the Light",
+  "style_prompt": "Clear educational indie pop, warm female vocal, crisp diction, light acoustic guitar and handclaps, memorable chorus, no heavy reverb",
+  "bpm": 96,
+  "key": "C Major",
+  "duration_seconds": 70,
+  "arrangement": {
+    "instruments": [
+      "acoustic guitar for harmony",
+      "warm electric bass",
+      "handclaps and light drums for rhythm",
+      "soft piano countermelody"
+    ],
+    "arc": "Intimate guitar verse, brighter handclap chorus, reduced bridge, final chorus with piano and vocal harmonies"
+  },
+  "vocal": {
+    "format": "female lead with light chorus harmonies",
+    "timbre": "warm clear mezzo-soprano",
+    "accent": "General American",
+    "diction": "crisp consonants and clearly separated target words",
+    "delivery": "encouraging and intimate in verses, confident and melodic in the chorus"
+  },
+  "words": [
+    {
+      "word": "glimpse",
+      "ipa": "/ɡlɪmps/",
+      "stress": "GLIMPSE",
+      "meaning_zh": "一瞥；短暂感受",
+      "part_of_speech": "noun",
+      "collocation": "catch a glimpse of",
+      "example": "I caught a glimpse of the moon between the clouds."
+    },
+    {
+      "word": "persist",
+      "ipa": "/pərˈsɪst/",
+      "stress": "per-SIST",
+      "meaning_zh": "坚持；持续存在",
+      "part_of_speech": "verb",
+      "collocation": "persist in doing something",
+      "example": "If you persist, the difficult steps become easier."
+    }
+  ],
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        "I caught a glimpse of morning through the rain",
+        "A glimpse of something bright beyond the grey"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        "Persist, persist, take one more step",
+        "Hold that glimpse and don't forget",
+        "Persist, persist, the road will clear",
+        "A glimpse of hope is waiting here"
+      ]
+    }
+  ]
+}
