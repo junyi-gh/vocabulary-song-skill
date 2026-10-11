@@ -1,0 +1,13 @@
+.runtime/
+.runtime-location
+__pycache__/
+*.pyc
+output/
+*.wav
+*.mp3
+!examples/**/a-life-is-not-a-price.mp3
+*.flac
+*.aac
+*.m4a
+*.ogg
+.env
