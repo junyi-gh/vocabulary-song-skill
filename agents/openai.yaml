@@ -1,0 +1,6 @@
+interface:
+  display_name: "单词歌曲学习"
+  short_description: "把陌生英文单词做成含发音练习与可播放音频的记忆歌曲"
+  default_prompt: "使用 $vocabulary-song 把这些陌生单词制作成一首英文学习歌曲，并生成可播放音频。"
+policy:
+  allow_implicit_invocation: true
