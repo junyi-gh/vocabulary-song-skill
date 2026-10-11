@@ -1,0 +1,127 @@
+{
+  "title": "A Life Is Not a Price",
+  "style_prompt": "Deep cinematic indie soul protest song, intimate clear female vocal, restrained piano and warm bass in the verses, subtle drums building into an anthemic chorus, crisp English diction, emotionally serious but hopeful, no heavy reverb, no melisma on vocabulary words",
+  "bpm": 88,
+  "key": "E Minor",
+  "duration_seconds": 90,
+  "arrangement": {
+    "instruments": [
+      "restrained piano for harmony",
+      "warm electric bass",
+      "live drums with a slow soul pocket",
+      "clean electric guitar swells",
+      "subtle cinematic strings"
+    ],
+    "arc": "Intimate piano-and-bass opening, drums enter in the pre-chorus, full soul arrangement in the chorus, stripped bridge that rebuilds into a final chorus with strings and backing harmonies"
+  },
+  "vocal": {
+    "format": "female lead with restrained backing harmonies in the final chorus",
+    "timbre": "warm human alto with a natural breathy edge",
+    "accent": "General American",
+    "diction": "clear consonants, natural word stress, no melisma on target vocabulary",
+    "delivery": "intimate and compassionate in the verses, firm and emotionally expansive in the choruses"
+  },
+  "words": [
+    {
+      "word": "treatment",
+      "ipa": "/ˈtriːtmənt/",
+      "stress": "TREAT-ment",
+      "meaning_zh": "治疗；医疗处置",
+      "part_of_speech": "noun",
+      "collocation": "seek medical treatment",
+      "example": "She needs treatment for the pain in her chest."
+    },
+    {
+      "word": "commercial",
+      "ipa": "/kəˈmɝːʃəl/",
+      "stress": "com-MER-cial",
+      "meaning_zh": "商业的；广告",
+      "part_of_speech": "adjective / noun",
+      "collocation": "commercial interests",
+      "example": "Commercial interests should not decide who receives care."
+    },
+    {
+      "word": "advertise",
+      "ipa": "/ˈædvərtaɪz/",
+      "stress": "AD-ver-tise",
+      "meaning_zh": "为……做广告；宣传",
+      "part_of_speech": "verb",
+      "collocation": "advertise a product",
+      "example": "Companies advertise their products on television."
+    },
+    {
+      "word": "industry",
+      "ipa": "/ˈɪndəstri/",
+      "stress": "IN-dus-try",
+      "meaning_zh": "工业；行业",
+      "part_of_speech": "noun",
+      "collocation": "the pharmaceutical industry",
+      "example": "The pharmaceutical industry develops and sells medicines."
+    },
+    {
+      "word": "inflation",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "stress": "in-FLA-tion",
+      "meaning_zh": "通货膨胀",
+      "part_of_speech": "noun",
+      "collocation": "rising inflation",
+      "example": "Rising inflation makes medicine harder to afford."
+    }
+  ],
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        "Under the clinic light, she waits for treatment",
+        "Her hands hold a bill she cannot understand",
+        "Outside, a commercial promises salvation",
+        "Bright smiling faces say relief is close at hand"
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        "They advertise a miracle in thirty seconds",
+        "But pain does not disappear when the slogan ends"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        "Treatment should be more than a number in a line",
+        "When inflation climbs, a life is not a price",
+        "Industry, remember every heartbeat has a name",
+        "Keep the commercial, but don't sell hope away",
+        "Advertise the truth: no one should stand alone",
+        "Treatment is a promise we owe to every home"
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        "The industry grows taller over quiet streets",
+        "Inflation turns tomorrow into borrowed time",
+        "A commercial fades, but the waiting room remembers",
+        "What they advertise can never measure life"
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        "Let the industry build, but let compassion lead",
+        "Let inflation fall before it buries every need",
+        "If you advertise a cure, make care the first concern",
+        "Let treatment reach the hands that wait their turn"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "lines": [
+        "Treatment should be more than a number in a line",
+        "When inflation climbs, a life is not a price",
+        "Industry, remember every heartbeat has a name",
+        "No commercial is worth more than the hope we save"
+      ]
+    }
+  ]
+}
